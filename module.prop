@@ -1,0 +1,7 @@
+id=ttlfix_zb602kl
+name=TTL Tethering Fix (ASUS ZenFone Max Pro)
+version=v1.0
+versionCode=1
+author=timjosten
+description=Adds kernel module for changing packets' Time To Live (TTL) and sets TTL to 64
+minMagisk=1500
